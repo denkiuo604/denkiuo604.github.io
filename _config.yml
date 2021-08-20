@@ -1,1 +1,9 @@
+# Site settings
+title: でんきうお水族館
+description: 電気魚のWebサイト
+twitter_username: denkiuo604
+github_username:  denkiuo604
+locale: ja_JP
+
+# Build settings
 theme: jekyll-theme-cayman
