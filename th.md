@@ -19,7 +19,7 @@ permalink: /th.html
 - 妖精大戦争　～ 東方三月精
 - 東方神霊廟　～ Ten Desires.
 - 東方輝針城　～ Double Dealing Character.
-- 弾幕アマノジャク
+- 弾幕アマノジャク　～ Impossible Spell Card.
 - 東方紺珠伝　～ Legacy of Lunatic Kingdom.
 - 東方天空璋　～ Hidden Star in Four Seasons.
 - 秘封ナイトメアダイアリー　～ Violet Detector.
