@@ -26,7 +26,9 @@ permalink: /index.html
 ### TRPG
 - 配信視聴
 - シナリオ制作
-    - シナリオは[BOOTH](https://denkiuo.booth.pm/){:target="_blank"}にて無料で公開しています。
+    - シナリオは以下のプラットフォームにて無料で公開しています。
+        - [BOOTH](https://denkiuo.booth.pm/){:target="_blank"}
+        - [TALTO](https://talto.cc/){:target="_blank"}
 
 ## 数学
 ちょっとだけできます。
