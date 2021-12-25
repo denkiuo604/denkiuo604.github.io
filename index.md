@@ -8,6 +8,7 @@ permalink: /index.html
 - [Mathlog](https://mathlog.info/users/718/articles){:target="_blank"}
 - [Qiita](https://qiita.com/denkiuo604){:target="_blank"}
 - [BOOTH](https://denkiuo.booth.pm/){:target="_blank"}
+- [TALTO](https://talto.cc/users/Dv3hSd6j95RIYzbvyMhu7jx5vwk1){:target="_blank"}
 
 # 趣味
 
