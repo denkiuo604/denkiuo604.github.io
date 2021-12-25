@@ -28,7 +28,7 @@ permalink: /index.html
 - シナリオ制作
     - シナリオは以下のプラットフォームにて無料で公開しています。
         - [BOOTH](https://denkiuo.booth.pm/){:target="_blank"}
-        - [TALTO](https://talto.cc/){:target="_blank"}
+        - [TALTO](https://talto.cc/users/Dv3hSd6j95RIYzbvyMhu7jx5vwk1){:target="_blank"}
 
 ## 数学
 ちょっとだけできます。
