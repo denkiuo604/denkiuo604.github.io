@@ -21,7 +21,7 @@ permalink: /index.html
 - [東方ダンマクカグラ](https://danmaku.jp/){:target="_blank"}
 
 ### ポケモン
-- [Pokémon Café Mix](https://www.pokemon-cafe-mix.jp/){:target="_blank"}
+- [ようこそ！ポケモンカフェ ～まぜまぜパズル～](https://www.poke-maze.jp/){:target="_blank"}
 - [アニポケ](https://www.tv-tokyo.co.jp/anime/pocketmonster/){:target="_blank"}
 
 ### TRPG
