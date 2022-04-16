@@ -31,6 +31,10 @@ permalink: /index.html
         - [BOOTH](https://denkiuo.booth.pm/){:target="_blank"}
         - [TALTO](https://talto.cc/users/Dv3hSd6j95RIYzbvyMhu7jx5vwk1){:target="_blank"}
 
+### マーダーミステリー
+- 配信視聴
+- [プレイ履歴](/mm.html)
+
 ## 数学
 ちょっとだけできます。
 
