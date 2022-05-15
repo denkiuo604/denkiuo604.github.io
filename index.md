@@ -9,6 +9,7 @@ permalink: /index.html
 - [Qiita](https://qiita.com/denkiuo604){:target="_blank"}
 - [BOOTH](https://denkiuo.booth.pm/){:target="_blank"}
 - [TALTO](https://talto.cc/users/Dv3hSd6j95RIYzbvyMhu7jx5vwk1){:target="_blank"}
+- [note](https://note.com/denkiuo604/){:target="_blank"}
 
 # 趣味
 
