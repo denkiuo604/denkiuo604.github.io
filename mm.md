@@ -11,6 +11,8 @@ permalink: /mm.html
 ## 遊んだ作品
 - [蜃より出づるは夢か現か](https://manaitahodoki.booth.pm/items/1884680){:target="_blank"}
 - [探偵が多すぎる](https://toga.booth.pm/items/2106739){:target="_blank"}
+- [背徳の代紋](https://hikimiya.booth.pm/items/2695449){:target="_blank"}
+- [バロン・サムディと賑やかな死体の謎](https://ccfolia.booth.pm/items/2659031){:target="_blank"}
 
 ## 配信で視聴した作品
 - マダミス狂気山脈三部作
