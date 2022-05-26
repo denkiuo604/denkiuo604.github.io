@@ -16,4 +16,9 @@ permalink: /avatar.html
 ![電気魚の表情集](/img/faces.png)
 いちばんしがちな表情は「大事なことを忘れていたのに気づいたとき」の顔らしい。
 
+## 異なる姿
+<img src="/img/figure2.png" alt="電気魚の人型形態" width="400" style="display: block; margin: auto">
+2022年5月に発見された、人型形態の姿。
+~~めちゃくちゃかわいくないですか！？~~
+
 [トップに戻る](/)
