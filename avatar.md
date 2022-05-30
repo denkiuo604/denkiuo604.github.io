@@ -7,7 +7,6 @@ permalink: /avatar.html
 # 本資料について
 - 以下の画像は、電気魚の生態調査の過程で得られた貴重な資料である。
 - インターネットを彷徨うために用意された、仮想的な姿のようだ。
-- 現在、この姿がインターネット上で目撃されたという情報は得られていない。
 
 ## 容姿
 <img src="/img/figure.png" alt="電気魚の姿" width="400" style="display: block; margin: auto">
