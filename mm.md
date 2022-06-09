@@ -14,6 +14,7 @@ permalink: /mm.html
 - [背徳の代紋](https://hikimiya.booth.pm/items/2695449){:target="_blank"}
 - [バロン・サムディと賑やかな死体の謎](https://ccfolia.booth.pm/items/2659031){:target="_blank"}
 - [幽刻館の殺人](https://zareshima.booth.pm/items/2576819){:target="_blank"}
+- [Nの真意](https://yuuuri.booth.pm/items/3810870){:target="_blank"}
 
 ## 配信で視聴した作品
 - マダミス狂気山脈三部作
