@@ -25,6 +25,7 @@ permalink: /th.html
 - 秘封ナイトメアダイアリー　～ Violet Detector.
 - 東方鬼形獣　～ Wily Beast and Weakest Creature.
 - 東方虹龍洞　～ Unconnected Marketeers.
+- バレットフィリア達の闇市場　～ 100th Black Market.
 
 ## クリア実績
 
@@ -65,5 +66,7 @@ permalink: /th.html
     - 全シーンクリア済
 - 秘封ナイトメアダイアリー
     - 全弾幕夢クリア済
+- バレットフィリア達の闇市場
+    - エンディング到達済み
 
 [トップに戻る](/)
