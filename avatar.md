@@ -20,4 +20,8 @@ permalink: /avatar.html
 2022年5月に発見された、人型形態の姿。
 ~~めちゃくちゃかわいくないですか！？~~
 
+### 近影
+<img src="/img/figure3.png" alt="電気魚の人型形態の近影" width="500" style="display: block; margin: auto">
+~~う～～～～～～～んやっぱりかわいい。~~
+
 [トップに戻る](/)
