@@ -15,6 +15,7 @@ permalink: /mm.html
 - [バロン・サムディと賑やかな死体の謎](https://ccfolia.booth.pm/items/2659031){:target="_blank"}
 - [幽刻館の殺人](https://zareshima.booth.pm/items/2576819){:target="_blank"}
 - [Nの真意](https://yuuuri.booth.pm/items/3810870){:target="_blank"}
+- [蒸気の街には薔薇が咲く](https://niseika.booth.pm/items/3618368){:target="_blank"}
 
 ## 配信で視聴した作品
 - マダミス狂気山脈三部作
