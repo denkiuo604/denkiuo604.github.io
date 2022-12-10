@@ -24,4 +24,6 @@ permalink: /avatar.html
 <img src="/img/figure3.png" alt="電気魚の人型形態の近影" width="500" style="display: block; margin: auto">
 ~~う～～～～～～～んやっぱりかわいい。~~
 
+[自撮り](https://twitter.com/i/events/1533773143134773248){:target="_blank"}
+
 [トップに戻る](/)

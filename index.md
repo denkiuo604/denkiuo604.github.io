@@ -41,4 +41,5 @@ permalink: /index.html
     - フリックノーツとお友達になりたい。
 
 ## その他
-数学や情報技術に興味があります。
+- 数学や情報技術に興味があります。
+- [描いたFAまとめ](https://twitter.com/i/events/1525684906973466624){:target="_blank"}
