@@ -26,5 +26,6 @@ permalink: /mm.html
 - [少年少女Aの独白](https://violetsogabe.booth.pm/items/1895555){:target="_blank"}
 - [J・モリアーティの暗躍](https://secundusterra.booth.pm/items/1640133){:target="_blank"}
 - [ヒマワリの咲く季節　ドタバタわんわんミステリー](https://moepupu.booth.pm/items/2589769){:target="_blank"}
+- [円蓋の向日葵](https://biscuitcocoa.booth.pm/items/2333533){:target="_blank"}
 
 [トップに戻る](/)
