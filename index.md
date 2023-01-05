@@ -10,6 +10,7 @@ permalink: /index.html
 - [BOOTH](https://denkiuo.booth.pm/){:target="_blank"}
 - [TALTO](https://talto.cc/users/Dv3hSd6j95RIYzbvyMhu7jx5vwk1){:target="_blank"}
 - [note](https://note.com/denkiuo604/){:target="_blank"}
+- [min.t](https://min.togetter.com/id/denkiuo604){:target="_blank"}
 
 # 趣味
 
@@ -41,5 +42,4 @@ permalink: /index.html
     - フリックノーツとお友達になりたい。
 
 ## その他
-- 数学や情報技術に興味があります。
-- [描いたFAまとめ](https://twitter.com/i/events/1525684906973466624){:target="_blank"}
+数学や情報技術に興味があります。
