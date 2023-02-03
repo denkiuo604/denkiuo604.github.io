@@ -11,6 +11,7 @@ permalink: /index.html
 - [TALTO](https://talto.cc/users/Dv3hSd6j95RIYzbvyMhu7jx5vwk1){:target="_blank"}
 - [note](https://note.com/denkiuo604/){:target="_blank"}
 - [min.t](https://min.togetter.com/id/denkiuo604){:target="_blank"}
+- [Pawoo](https://pawoo.net/@denkiuo604){:target="_blank"}
 
 # 趣味
 
