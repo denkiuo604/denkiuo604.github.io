@@ -20,8 +20,10 @@ permalink: /avatar.html
 2022年5月に発見された、人型形態の姿。
 ~~めちゃくちゃかわいくないですか！？~~
 
-### 近影
-<img src="/img/figure3.png" alt="電気魚の人型形態の近影" width="500" style="display: block; margin: auto">
+<img src="/img/figure3.png" alt="電気魚の人型形態その2" width="500" style="display: block; margin: auto">
 ~~う～～～～～～～んやっぱりかわいい。~~
+
+<img src="/img/figure4.png" alt="歌う電気魚" width="400" style="display: block; margin: auto">
+めちゃめちゃ盛れた一枚。
 
 [トップに戻る](/)
