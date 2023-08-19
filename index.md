@@ -4,7 +4,7 @@ permalink: /index.html
 ---
 
 # 生息地
-- [Twitter](https://twitter.com/denkiuo604){:target="_blank"}
+- [X (Twitter)](https://twitter.com/denkiuo604){:target="_blank"}
 - [Mathlog](https://mathlog.info/users/718/articles){:target="_blank"}
 - [Qiita](https://qiita.com/denkiuo604){:target="_blank"}
 - [BOOTH](https://denkiuo.booth.pm/){:target="_blank"}
