@@ -17,6 +17,7 @@ permalink: /mm.html
 - [Nの真意](https://yuuuri.booth.pm/items/3810870){:target="_blank"}
 - [蒸気の街には薔薇が咲く](https://niseika.booth.pm/items/3618368){:target="_blank"}
 - [夢ノ棺ノ時間ドロボウ](https://toriemostab.booth.pm/items/2608835){:target="_blank"}
+- [エイダ](https://itohaki.com/eidaspecial/){:target="_blank"}
 
 ## 配信で視聴した作品
 - マダミス狂気山脈三部作
