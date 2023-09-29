@@ -44,3 +44,6 @@ permalink: /index.html
 
 ## その他
 数学や情報技術に興味があります。
+
+# お問い合わせ
+[電気魚へのお問い合わせ窓口](https://forms.gle/paakCCAokaTNecjE8)
