@@ -21,7 +21,7 @@ permalink: /mm.html
 - [アンノウン](https://sakubey.booth.pm/items/2836406){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## 配信で視聴した作品
-- マダミス狂気山脈三部作
+- マダミス狂気山脈三部作＋2.5
     - [狂気山脈　陰謀の分水嶺](https://dappleox.booth.pm/items/1980320){:target="_blank"}{:rel="noopener noreferrer"}
     - [星ふる天辺](https://dappleox.booth.pm/items/2276640){:target="_blank"}{:rel="noopener noreferrer"}
     - [薄明三角点](https://dappleox.booth.pm/items/2877835){:target="_blank"}{:rel="noopener noreferrer"}
