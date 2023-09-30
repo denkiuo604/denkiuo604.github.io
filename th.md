@@ -26,6 +26,7 @@ permalink: /th.html
 - 東方鬼形獣　～ Wily Beast and Weakest Creature.
 - 東方虹龍洞　～ Unconnected Marketeers.
 - バレットフィリア達の闇市場　～ 100th Black Market.
+- 東方獣王園　～ Unfinished Dream of All Living Ghost.
 
 ## クリア実績
 
@@ -39,6 +40,7 @@ permalink: /th.html
     - Phantasmは妖々夢のみ
     - 妖精大戦争は「機体」を「ルート」と読み替える
     - 紺珠伝は完全無欠モードの実績（Extraを除く）
+    - 獣王園はExtra無し
 
 | | Easy | Normal | Hard | Lunatic | Extra | Phantasm |
 | ---- | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -56,6 +58,7 @@ permalink: /th.html
 | 天空璋 | ◎ | ◎ | × | × | ◎ | - |
 | 鬼形獣 | ◎ | ◎ | ○ | × | ◎ | - |
 | 虹龍洞 | ◎ | ◎ | ◎ | ○ | ◎ | - |
+| 獣王園 | × | ◎ | ○ | × | - | - |
 
 ### 小数点ナンバリング作品（妖精大戦争を除く）
 - 文花帖
