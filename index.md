@@ -13,6 +13,11 @@ permalink: /index.html
 - [min.t](https://min.togetter.com/id/denkiuo604){:target="_blank"}{:rel="noopener noreferrer"}
 - [Pawoo](https://pawoo.net/@denkiuo604){:target="_blank"}{:rel="noopener noreferrer"}
 
+# 作ったもの
+- [Ichitabi Timer](https://denkiuo604.github.io/ichitabi-timer/){:target="_blank"}{:rel="noopener noreferrer"}
+- [エモクロアTRPG『新約・コトリバコ』用 チャパレ加工ツール](https://denkiuo604.github.io/kotoribako-chatpalette/){:target="_blank"}{:rel="noopener noreferrer"}
+  - プレイヤー向け配布資料の内容を含みます。
+
 # 趣味
 
 ## ゲーム・アニメ
@@ -20,12 +25,9 @@ permalink: /index.html
 ### 東方Project
 - [原作](https://touhou-project.news/titles/){:target="_blank"}{:rel="noopener noreferrer"}
     - [プレイ履歴](/th.html)
-- [東方LostWord](https://touhoulostword.com/){:target="_blank"}{:rel="noopener noreferrer"}
-- [東方ダンマクカグラ](https://danmaku.jp/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### ポケモン
 - [ようこそ！ポケモンカフェ ～まぜまぜパズル～](https://www.poke-maze.jp/){:target="_blank"}{:rel="noopener noreferrer"}
-- [アニポケ](https://www.tv-tokyo.co.jp/anime/pocketmonster2023/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### TRPG
 - 配信視聴
