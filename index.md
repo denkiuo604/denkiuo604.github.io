@@ -17,6 +17,7 @@ permalink: /index.html
 - [Ichitabi Timer](https://denkiuo604.github.io/ichitabi-timer/){:target="_blank"}{:rel="noopener noreferrer"}
 - [エモクロアTRPG『新約・コトリバコ』用 チャパレ加工ツール](https://denkiuo604.github.io/kotoribako-chatpalette/){:target="_blank"}{:rel="noopener noreferrer"}
   - プレイヤー向け配布資料の内容を含みます。
+  - エモクロアTRPG『新約・コトリバコ』については、お声がけいただければディーラーをやります。ご希望の方はページ下部のお問い合わせ窓口からご連絡ください。
 
 # 趣味
 
