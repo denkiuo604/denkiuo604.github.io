@@ -12,6 +12,7 @@ permalink: /index.html
 - [note](https://note.com/denkiuo604/){:target="_blank"}{:rel="noopener noreferrer"}
 - [min.t](https://min.togetter.com/id/denkiuo604){:target="_blank"}{:rel="noopener noreferrer"}
 - [Pawoo](https://pawoo.net/@denkiuo604){:target="_blank"}{:rel="noopener noreferrer"}
+- [Bluesky](https://bsky.app/profile/denkiuo604.bsky.social){:target="_blank"}{:rel="noopener noreferrer"}
 
 # 作ったもの
 - [Ichitabi Timer](https://denkiuo604.github.io/ichitabi-timer/){:target="_blank"}{:rel="noopener noreferrer"}
