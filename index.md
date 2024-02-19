@@ -37,6 +37,9 @@ permalink: /index.html
     - シナリオは以下のプラットフォームにて無料で公開しています。
         - [BOOTH](https://denkiuo.booth.pm/){:target="_blank"}{:rel="noopener noreferrer"}
         - [TALTO](https://talto.cc/users/Dv3hSd6j95RIYzbvyMhu7jx5vwk1){:target="_blank"}{:rel="noopener noreferrer"}
+- [KemoV Fans' TRPG Server](https://discord.gg/whRzgN88ut)
+  - ケモノVTuber(ケモV)の世界に理解がある方向けのTRPGサーバーです。
+  - 「ケモV界隈に理解がある」かつ「TRPGに興味がある」方はご自由にご参加ください。
 
 ### マーダーミステリー
 - 配信視聴
