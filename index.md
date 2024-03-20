@@ -40,6 +40,7 @@ permalink: /index.html
 - [KemoV Fans' TRPG Server](https://discord.gg/whRzgN88ut)
   - ケモノVTuber(ケモV)リスナーで集まってTRPGを遊ぶためのDiscordサーバーです。
   - 「ケモVの世界に理解がある」かつ「TRPGに興味がある」方はご自由にご参加ください。
+  - [サーバーについての詳しい説明](/kfts.html)
 
 ### マーダーミステリー
 - 配信視聴
