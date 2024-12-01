@@ -47,10 +47,6 @@ permalink: /index.html
 - 配信視聴
 - [プレイ履歴](/mm.html)
 
-### リズムゲーム
-- [プロジェクトセカイ カラフルステージ！ feat. 初音ミク](https://pjsekai.sega.jp/){:target="_blank"}{:rel="noopener noreferrer"}
-    - フリックノーツとお友達になりたい。
-
 ## その他
 数学や情報技術に興味があります。
 
