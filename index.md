@@ -10,7 +10,7 @@ permalink: /index.html
 - [BOOTH](https://denkiuo.booth.pm/){:target="_blank"}{:rel="noopener noreferrer"}
 - [TALTO](https://talto.cc/users/Dv3hSd6j95RIYzbvyMhu7jx5vwk1){:target="_blank"}{:rel="noopener noreferrer"}
 - [note](https://note.com/denkiuo604/){:target="_blank"}{:rel="noopener noreferrer"}
-- [min.t](https://min.togetter.com/id/denkiuo604){:target="_blank"}{:rel="noopener noreferrer"}
+- [posfie](https://posfie.com/@denkiuo604){:target="_blank"}{:rel="noopener noreferrer"}
 - [Pawoo](https://pawoo.net/@denkiuo604){:target="_blank"}{:rel="noopener noreferrer"}
 - [Bluesky](https://bsky.app/profile/denkiuo604.bsky.social){:target="_blank"}{:rel="noopener noreferrer"}
 - [SUZURI](https://suzuri.jp/denkiuo604){:target="_blank"}{:rel="noopener noreferrer"}
