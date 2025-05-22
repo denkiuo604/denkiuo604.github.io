@@ -19,6 +19,7 @@ permalink: /mm.html
 - [夢ノ棺ノ時間ドロボウ](https://toriemostab.booth.pm/items/2608835){:target="_blank"}{:rel="noopener noreferrer"}
 - [エイダ](https://itohaki.com/eidaspecial/){:target="_blank"}{:rel="noopener noreferrer"}
 - [アンノウン](https://sakubey.booth.pm/items/2836406){:target="_blank"}{:rel="noopener noreferrer"}
+- [裂山荘殺人事件](https://colcolors.booth.pm/items/6343878){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## 配信で視聴した作品
 - マダミス狂気山脈三部作＋2.5
