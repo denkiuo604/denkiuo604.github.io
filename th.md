@@ -27,6 +27,7 @@ permalink: /th.html
 - 東方虹龍洞　～ Unconnected Marketeers.
 - バレットフィリア達の闇市場　～ 100th Black Market.
 - 東方獣王園　～ Unfinished Dream of All Living Ghost.
+- 東方錦上京　～ Fossilized Wonders.
 
 ## クリア実績
 
@@ -59,6 +60,7 @@ permalink: /th.html
 | 鬼形獣 | ◎ | ◎ | ○ | × | ◎ | - |
 | 虹龍洞 | ◎ | ◎ | ◎ | ○ | ◎ | - |
 | 獣王園 | × | ◎ | ○ | × | - | - |
+| 錦上京 | × | ○ | × | × | × | - |
 
 ### 小数点ナンバリング作品（妖精大戦争を除く）
 - 文花帖
