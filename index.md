@@ -31,6 +31,7 @@ permalink: /index.html
 
 ### ポケモン
 - [ようこそ！ポケモンカフェ ～まぜまぜパズル～](https://www.poke-maze.jp/){:target="_blank"}{:rel="noopener noreferrer"}
+- [ポケモンフレンズ](https://www.pokemon-friends.jp/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ### TRPG
 - 配信視聴
