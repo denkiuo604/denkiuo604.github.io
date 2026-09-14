@@ -28,6 +28,7 @@ permalink: /th.html
 - バレットフィリア達の闇市場　～ 100th Black Market.
 - 東方獣王園　～ Unfinished Dream of All Living Ghost.
 - 東方錦上京　～ Fossilized Wonders.
+- 東方紅魔郷：New Classic　～ the Embodiment of Scarlet Devil.
 
 ## クリア実績
 
